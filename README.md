@@ -1,7 +1,19 @@
-# Advance-Pattern-3
+# Palindromic Pattern
 
-it,s Palindrome pattern
+This Java program generates a palindromic pattern based on the user input of the number of rows.
 
-I break it into two half for making it easy to code
-if you can,t understood what I did contact me saqlain4517@gmail.com
-i will help you to understand
+## Description
+
+The `Q10_advance.java` program prompts the user to input the number of rows for the palindromic pattern. It then generates a pattern where each row contains numbers that form a palindrome sequence, with the center number being the row number itself.
+
+## Pattern Example
+
+For example, if the user inputs 4 as the number of rows, the program will generate the following pattern:
+
+```
+   1
+  212
+ 32123
+4321234
+
+```
